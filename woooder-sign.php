@@ -5,7 +5,7 @@
  * Plugin URI: https://github.com/a-u-s-e-r-n-a-m-e/woooder-sign
  * Description: This plugin adds a signature agreement field to the WooCommerce checkout page that requires customers to sign an agreement before submitting their payment.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Samuel
  * Author URI: https://github.com/a-u-s-e-r-n-a-m-e/
  */
 
